@@ -1,5 +1,8 @@
 # MiniMind From Scratch（从零构建轻量级语言模型）
 
+> ⚠️ **本项目已整合进统一学习库 [hands-on-llm](https://github.com/FRS2003/hands-on-llm) 的 02-train-from-scratch（手搓与训练） 模块（理论→手搓训练→框架→Agent→RAG 一站式，持续更新）；本仓库仅作存档，不再单独维护。**
+
+
 > 不依赖高层封装，用原生 PyTorch 逐层实现现代轻量级语言模型的核心组件，并完整跑通
 > **预训练 → SFT → LoRA → DPO → GRPO** 的训练链路。
 >
